@@ -36,7 +36,7 @@
 
 <h3 align="center">🔥 Latest From CodeMorph 🔥</h3>
 <p align="center">
-  <a href="YOUR_YOUTUBE_LATEST_VIDEO_LINK">
+  <a href="https://www.youtube.com/@CodeMorph_18">
     <img src="https://img.shields.io/badge/YouTube_Channel-The_Latest_Morph-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Latest CodeMorph Video"/>
   </a>
 </p>
