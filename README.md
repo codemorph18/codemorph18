@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-codemorph-banner.png" alt="CodeMorph - Code that Transforms" width="100%"/>
+  <img src="https://tenor.com/view/font-hacker-meme-hacker-meme-font-meme-gif-10812246521954462064"  alt="CodeMorph - Code that Transforms" width="100%"/>
 </div>
 
 <h1 align="center">👋 Hello World! I'm CodeMorph</h1>
@@ -52,10 +52,10 @@
 ### 🤝 Connect & Morph Together
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="YOUR_CODEPEN_URL"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a>
-  <a href="YOUR_YOUTUBE_CHANNEL_URL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="TWITTER_URL"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="CODEPEN_URL"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a>
+  <a href="https://www.youtube.com/@CodeMorph_18"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -64,5 +64,5 @@
 </p>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/codemorph18/count.svg" alt="CodeMorph visitor count"/>
+  <img src="[https://profile-counter.glitch.me/codemorph18/count.svg](https://komarev.com/ghpvc/?username=codemorph18&style=for-the-badge&color=805ad5)" alt="CodeMorph visitor count"/>
 </div>
