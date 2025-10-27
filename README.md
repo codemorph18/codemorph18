@@ -1,9 +1,9 @@
-<div align="center">
+<!-- <div align="center">
     <img src="before-after.gif" 
          alt="CodeMorph - Animated Banner" 
          width="100%"
          style="border-radius: 8px; box-shadow: 0 0 15px rgba(128, 90, 213, 0.8);" />
-</div>
+</div> -->
 
 <h1 align="center">👋 Hello World! I'm CodeMorph</h1>
 
