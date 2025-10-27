@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://tenor.com/view/font-hacker-meme-hacker-meme-font-meme-gif-10812246521954462064"  alt="CodeMorph - Code that Transforms" width="100%"/>
+ <img src="https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/main/gh-profile-header.svg" 
+         alt="CodeMorph - Animated Header" 
+         width="100%"
+         style="border-radius: 8px; box-shadow: 0 0 15px rgba(128, 90, 213, 0.8);" />
+  </a>
 </div>
 
 <h1 align="center">👋 Hello World! I'm CodeMorph</h1>
