@@ -1,10 +1,10 @@
 <div align="center">
-<a href="YOUR_YOUTUBE_CHANNEL_URL" target="_blank">
-    <img src="https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/main/gh-profile-header.svg" 
-         alt="CodeMorph - Animated Header" 
+  <a href="https://www.youtube.com/@CodeMorph_18" target="_blank">
+    <img src="https://tenor.com/view/font-hacker-meme-hacker-meme-font-meme-gif-10812246521954462064" 
+         alt="CodeMorph - Animated Banner" 
          width="100%"
          style="border-radius: 8px; box-shadow: 0 0 15px rgba(128, 90, 213, 0.8);" />
-</a>
+  </a>
 </div>
 
 <h1 align="center">👋 Hello World! I'm CodeMorph</h1>
